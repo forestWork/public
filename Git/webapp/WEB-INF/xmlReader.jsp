@@ -241,8 +241,8 @@
         <table>
             <tr>
                 <td>
-                    <button type="button" class="ui-button eas-ui-button" onclick="fn_getXmlValue()"><span class="btn-p ui-icon ui-icon-link"></span>적용</button>
-                    <button type="button" class="ui-button eas-ui-button" onclick="fn_clearXmlValue();"><span class="btn-p ui-icon ui-icon-link-broken"></span>해제</button>
+                    <button type="button" class="ui-button" onclick="fn_getXmlValue()"><span class="btn-p ui-icon ui-icon-link"></span>적용</button>
+                    <button type="button" class="ui-button" onclick="fn_clearXmlValue();"><span class="btn-p ui-icon ui-icon-link-broken"></span>해제</button>
                 </td>
             </tr>
         </table>
