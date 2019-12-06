@@ -21,7 +21,7 @@
     .tol {
         width: 99%;
     }
-    </style>
+    </style> 
 
     <script type="text/javascript">
     var gridView1;
