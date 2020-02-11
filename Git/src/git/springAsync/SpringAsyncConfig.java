@@ -1,3 +1,9 @@
+/**
+ * Spring @Async 비동기처리
+ *
+ *
+ * @See http://dveamer.github.io/java/SpringAsync.html
+ * */
 package git.springAsync;
 
 import java.util.concurrent.Callable;
